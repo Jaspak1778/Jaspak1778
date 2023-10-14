@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jaspak1778, real name Jani, from Central Finland.
-- 👀 I’m interested in software development, learning Python, C# and Java.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m not looking to collaborate on right now, just studying..
-
+Main()
+<Software dev:student, living in Central Finland.>
+<Currently working on with C#, Python and Java.>
+<Hobbies: Music, writing code, skiing and reading>
 
 <!---
 Jaspak1778/Jaspak1778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
