@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jaspak1778, real name Jani, from Finland.
-- 👀 I’m interested in software development, learning Python,C# and Java.
+- 👋 Hi, I’m @Jaspak1778, real name Jani, from Central Finland.
+- 👀 I’m interested in software development, learning Python, C# and Java.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m not looking to collaborate on right now, just studying..
 
