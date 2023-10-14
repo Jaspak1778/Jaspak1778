@@ -1,9 +1,9 @@
 <Class>
 Jani Pekkala
 
-<Software dev:student, living in Central Finland. "\n" >
-<Currently working on with C#, Python and Java.>
-<Hobbies: Music, writing code, skiing and reading>
+<Software dev:student, living in Central Finland.&#10; >
+<Currently working on with C#, Python and Java.&#10; >
+<Hobbies: Music, writing code, skiing and reading. &#10; >
 </Class> 
 
 <!---
