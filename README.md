@@ -1,5 +1,3 @@
-![kuusi](https://github.com/Jaspak1778/Jaspak1778/assets/103809987/ab2fbaee-0eea-43ca-9c7c-d3b1d9326c9d)
-
 Jani Pekkala            
 
 Software dev:student, living in Central Finland.
