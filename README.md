@@ -1,6 +1,7 @@
 # Jani Pekkala [YouTube](https://www.youtube.com/@JaniPekkala)
 > Hobbies: Skiing, music, forest walks, gaming.
-> Central Finland
+> 
+> Loc: Central Finland
 ##
 Currently hands-on:
 * Python
