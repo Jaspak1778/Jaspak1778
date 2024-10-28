@@ -1,4 +1,4 @@
-# Jani Pekkala [YouTube](https://www.youtube.com/@JaniPekkala)
+# Jani Pekkala 
 > Hobbies: Skiing, music, forest walks, gaming.
 > 
 > Loc: Central Finland
@@ -10,6 +10,8 @@ Currently hands-on:
 * Blazor
 * SSMS
 * Azure
+##
+[YouTube](https://www.youtube.com/@JaniPekkala)
 ##
 <!---
 Jaspak1778/Jaspak1778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
