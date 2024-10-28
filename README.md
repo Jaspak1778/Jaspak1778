@@ -12,7 +12,7 @@ Currently hands-on:
 * Azure
 ##
 
-[YouTube] Kanava (https://www.youtube.com/@JaniPekkala)
+[YouTube](https://www.youtube.com/@JaniPekkala)
 ##
 <!---
 Jaspak1778/Jaspak1778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
