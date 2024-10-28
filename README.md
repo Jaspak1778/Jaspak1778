@@ -1,5 +1,7 @@
-# Jani Pekkala > Hobbies: Skiing, music, forest walks, gaming.
+# Jani Pekkala 
+> Hobbies: Skiing, music, forest walks, gaming.
 > Central Finland
+
 [YouTube](https://www.youtube.com/@JaniPekkala)
 ##
 Currently hands-on:
