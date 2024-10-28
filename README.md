@@ -11,7 +11,8 @@ Currently hands-on:
 * SSMS
 * Azure
 ##
-[YouTube](https://www.youtube.com/@JaniPekkala)
+
+[YouTube] Kanava (https://www.youtube.com/@JaniPekkala)
 ##
 <!---
 Jaspak1778/Jaspak1778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
