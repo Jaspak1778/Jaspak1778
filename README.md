@@ -1,12 +1,12 @@
 Jani Pekkala            
 ##
 Currently hands-on:
-Python
-Django
-ASP.NET
-Blazor
-SSMS
-Azure
+*Python
+*Django
+*ASP.NET
+*Blazor
+*SSMS
+*Azure
 
 Hobbies: Skiing, music, forest walks, gaming
 Central Finland
