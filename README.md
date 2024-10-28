@@ -11,7 +11,7 @@ Currently hands-on:
 * SSMS
 * Azure
 ##
-
+Kurkkaa:
 [YouTube](https://www.youtube.com/@JaniPekkala)
 ##
 <!---
