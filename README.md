@@ -1,5 +1,5 @@
 # Jani Pekkala 
-> Hobbies: Skiing, music, forest walks, gaming.
+> Hobbies: Skiing, music, forest walks, drones.
 > 
 > Loc: Central Finland
 ##
