@@ -4,12 +4,10 @@
 > Loc: Central Finland
 ##
 Currently hands-on:
-* Python
-* Django
-* ASP.NET
-* Blazor
-* SSMS
-* Azure
+* React
+* JavaScript
+* Firebase
+* Power-BI
 ##
 Kurkkaa:
 [YouTube](https://www.youtube.com/@JaniPekkala)
