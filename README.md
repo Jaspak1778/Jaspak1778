@@ -5,9 +5,9 @@
 ##
 Currently hands-on:
 * React
-* JavaScript
 * Firebase
-* Power-BI
+* CCNA
+* DSA - CPP
 ##
 Kurkkaa:
 [YouTube](https://www.youtube.com/@JaniPekkala)
