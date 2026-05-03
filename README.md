@@ -4,10 +4,10 @@
 > Loc: Central Finland
 ##
 Currently hands-on:
-* React
-* Firebase
+* DSA
+* Python
+* C++
 * CCNA
-* DSA - CPP
 ##
 Kurkkaa:
 [YouTube](https://www.youtube.com/@JaniPekkala)
