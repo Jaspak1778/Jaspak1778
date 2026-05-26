@@ -20,4 +20,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="120" alt="IT English Badge">
 </a>
 
-<iframe  frameborder="0"  scrolling="no" src="https://openbadgepassport.com/app/badge/info/555572/pic/embed" width="200" height="270"></iframe>
+<a href="https://openbadgepassport.com/app/badge/info/555572" target="_blank">
+  <img src="https://openbadgepassport.com/app/badge/info/555572/pic/embed" width="120" alt="Python FITECH">
+</a>
